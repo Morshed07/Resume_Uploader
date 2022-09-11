@@ -1,13 +1,13 @@
 from django.db import models
 
 STATE_CHOISE = (
-("Dhaka","Dhaka"),
-("Rajshahi","Rajshahi"),
-("Chittagong","Chittagong"),
-("Barishal","Barishal"),
-("Khulna","Khulna"),
-("Rangpur","Rangpur"),
-("Sylhet","Sylhet"),
+("DHAKA","DHAKA"),
+("RAJSHAHI","RAJSHAHI"),
+("CHITTAGONG","CHITTAGONG"),
+("BARISHAL","BARISHAL"),
+("KHULNA","KHULNA"),
+("RANGPUR","RANGPUR"),
+("SYLHET","SYLHET"),
 )
 
 
